@@ -1,0 +1,16 @@
+celery
+coverage
+django-crispy-forms
+django-storages
+django-tinymce
+gunicorn
+Pillow
+playwright
+pre-commit
+psycopg2-binary
+pytest
+pytest-cov
+pytest-django
+pytest-playwright
+pytest-xdist
+redis
